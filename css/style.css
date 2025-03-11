@@ -2,11 +2,7 @@
     font-weight: 600;
     color: black;
 }
-section .container-fuild{
-    background-image: url(/images/banner-bg.png);
-    background-size: cover;
-    
-}
+
 .box{
    
     border: 1px solid black;
