@@ -39,6 +39,11 @@
     outline: none;
 
 }
+.row button:hover{
+    color: white;
+    background-color: black;
+
+}
 .btno{
     padding-inline: 30px !important; 
  
@@ -46,8 +51,8 @@
 }
 .font i{
     color: white;
-    font-size: 30px;
-    padding-inline: 20px;
+    font-size: 20px;
+    padding-inline: 10px;
     
 }
 .font{
@@ -55,3 +60,4 @@
     padding-block: 24px;
     
 }
+
