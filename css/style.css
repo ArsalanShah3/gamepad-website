@@ -8,6 +8,9 @@
     border: 1px solid black;
     border-radius: 35px ;
 }
+ .active{
+    color: white !important;
+}
 .person
 {
     height: 20vh;
