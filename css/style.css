@@ -11,6 +11,9 @@
  .active{
     color: white !important;
 }
+.input:focus{
+    outline: none;
+}
 .person
 {
     height: 20vh;
